@@ -1,3 +1,4 @@
 # AL2-s-Transportation-Wiki
 
-    1. $x=2$
+    $x=2$
+    
